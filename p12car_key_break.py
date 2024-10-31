@@ -1,5 +1,5 @@
 key_location="chair"
-locations=["garage","livind room","chair","closet"]
+locations=["garage","living room","chair","closet"]
 
 for i in locations:
     if i==key_location:
