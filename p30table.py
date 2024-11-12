@@ -14,3 +14,6 @@ while i<=10:
     result=n*i
     print(f"{n} X {i} ={result}")
     i=i+1
+
+
+    
